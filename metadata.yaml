@@ -9,6 +9,8 @@ creator:
     gutenberg_agent_id: '33605'
     url: http://www.gutenberg.org/2009/agents/33605
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28953#When-I-Grow-Up
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2009-05-24'
 gutenberg_type: Text
